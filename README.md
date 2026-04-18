@@ -26,7 +26,9 @@ Cada teste é salvo em um arquivo `.txt` separado, permitindo comparar os result
 Na pasta `exemplo` tem um teste que eu fiz do meu computador aonde você pode ver como vai ficar o seu. Também tem o arquivo `ping.py` que basicamente cria um grafico com os dados pra você ver a latência melhor.
 
 Gráfico do exemplo:
-![alt text]
+<img width="1814" height="887" alt="image" src="https://github.com/user-attachments/assets/25e2cac4-f761-476b-931f-5f5c87de5657" />
+
+---
 
 ## Dica
 
